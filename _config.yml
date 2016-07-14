@@ -1,14 +1,14 @@
-layout_spectrum: 0.23317698016762733
-typography_spectrum: 0.24702822184190154
+layout_spectrum: 0.566129342187196
+typography_spectrum: 0.25714306998997927
 color:
   brandStrength: 0.9165346049703658
   lightness: 0.18360912706702948
   saturation: 0.7225886627566069
   rhythmicContrast: 0.16712349117733538
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
 name: 'Temporal Triumph '
