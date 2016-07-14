@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Temporal Triumph ]]></title>
         <description><![CDATA[Temporal Triumph ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/temporal-triumph/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Jul 2016 23:33:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 14 Jul 2016 23:33:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/temporal-triumph/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3063dcd-91c3-4d05-87d5-bc581fb367c7.jpg">]]></description>
+            <link>https://thegrid.ai/temporal-triumph/981a10d5-2b1d-47f2-baac-774cd911d3eb/index.html</link>
+            <guid isPermaLink="false">981a10d5-2b1d-47f2-baac-774cd911d3eb</guid>
+            <pubDate>Thu, 14 Jul 2016 23:33:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[FIGHT DEMO CODYvsKAI CITY PARK KNIFE FIGHT 01]]></title>
             <description><![CDATA[<article><h1>FIGHT DEMO CODYvsKAI CITY PARK KNIFE FIGHT 01</h1><p>Uploaded by LordSkeletaur on 2016-07-14.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/36698fcc14631686f2158817691a3d27/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2Fbt02dMCtgUQ%2Fmaxresdefault.jpg"></article>]]></description>
